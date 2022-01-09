@@ -1,6 +1,6 @@
 # [Exercise Tracker](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker)
 
-This is a Node.js (with Express.js) little application which is part of the FCC Back End Certification. It gives takes an URL and shortens it to a singular digit which can be used to redirect to the original URL.
+This is a Node.js (with Express.js) little application which is part of the FCC Back End Certification. It is an exercise tracker which allows you to add users, add their exercises and view logs of the same.
 
 ## Language and Framework
 ![Javascript](https://img.shields.io/badge/Language-Javascript-brightgreen) ![Expres](https://img.shields.io/badge/Framework-Express-brightgreen)
